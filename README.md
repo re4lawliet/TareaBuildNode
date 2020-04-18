@@ -1,5 +1,9 @@
 # Tarea # 7: Contenedores (2/2)
 
+VIDEOS DEMO: 
+PARTE 1: https://youtu.be/GOZSfHXiSfY
+PARTE 2: https://youtu.be/J_Povx2e6fY
+
 1. Instalamos Jenkins:  brew install jenkins-lts
 
 2. Iniciamos Jenkins: brew services start jenkins-lts
@@ -31,6 +35,10 @@ Please use the following password to proceed to installation:
 16. Crear projecto de Pipeline
 17. y en la parte de pipeline agregamos nuestro repositorio y guardamos Y ponemos bien la path del Jenkisfile sino no jala
 18. luego iniciamos el Job den Ocean
+
+
+
+
 
 fuente: https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/#fork-sample-repository
 
